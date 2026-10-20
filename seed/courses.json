@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Lập trình Android cơ bản với Kotlin",
+    "description": "Xây dựng ứng dụng Android đầu tiên với Kotlin: Activity, layout, RecyclerView và gọi REST API.",
+    "categoryId": "1",
+    "instructor": "Nguyễn Văn An",
+    "price": 500000,
+    "duration": 30,
+    "thumbnail": "https://picsum.photos/seed/android/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "Jetpack Compose từ A đến Z",
+    "description": "Thiết kế giao diện khai báo với Jetpack Compose, State, Navigation và Material 3.",
+    "categoryId": "1",
+    "instructor": "Trần Thị Bình",
+    "price": 650000,
+    "duration": 24,
+    "thumbnail": "https://picsum.photos/seed/compose/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "Lập trình Flutter đa nền tảng",
+    "description": "Viết một lần chạy trên Android và iOS với Flutter và Dart, kết nối API thực tế.",
+    "categoryId": "1",
+    "instructor": "Lê Minh Châu",
+    "price": 600000,
+    "duration": 28,
+    "thumbnail": "https://picsum.photos/seed/flutter/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "React Native thực chiến",
+    "description": "Xây dựng app di động bằng React Native và Expo, từ giao diện đến triển khai.",
+    "categoryId": "1",
+    "instructor": "Phạm Quốc Dũng",
+    "price": 580000,
+    "duration": 26,
+    "thumbnail": "https://picsum.photos/seed/reactnative/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "HTML, CSS, JavaScript cho người mới",
+    "description": "Nền tảng web cho người mới bắt đầu: bố cục responsive, DOM và xử lý sự kiện.",
+    "categoryId": "2",
+    "instructor": "Hoàng Thu Hà",
+    "price": 350000,
+    "duration": 20,
+    "thumbnail": "https://picsum.photos/seed/webbasic/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "Node.js và Express REST API",
+    "description": "Xây dựng backend RESTful với Node.js, Express, xác thực JWT và cơ sở dữ liệu.",
+    "categoryId": "2",
+    "instructor": "Vũ Đức Huy",
+    "price": 700000,
+    "duration": 32,
+    "thumbnail": "https://picsum.photos/seed/nodejs/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "ReactJS toàn tập",
+    "description": "Làm chủ React: component, hooks, router, quản lý state và tối ưu hiệu năng.",
+    "categoryId": "2",
+    "instructor": "Đặng Mỹ Linh",
+    "price": 750000,
+    "duration": 36,
+    "thumbnail": "https://picsum.photos/seed/reactjs/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "Machine Learning cơ bản với Python",
+    "description": "Học máy từ nền tảng: hồi quy, phân loại, phân cụm với scikit-learn.",
+    "categoryId": "3",
+    "instructor": "Bùi Anh Khoa",
+    "price": 800000,
+    "duration": 40,
+    "thumbnail": "https://picsum.photos/seed/ml/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "Deep Learning với TensorFlow",
+    "description": "Mạng nơ-ron, CNN, RNN và huấn luyện mô hình thực tế với TensorFlow.",
+    "categoryId": "3",
+    "instructor": "Ngô Thanh Mai",
+    "price": 950000,
+    "duration": 45,
+    "thumbnail": "https://picsum.photos/seed/deeplearning/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+    "createdAt": "2026-10-13"
+  },
+  {
+    "title": "Generative AI ứng dụng",
+    "description": "Ứng dụng mô hình ngôn ngữ lớn: prompt engineering, RAG và xây dựng trợ lý AI.",
+    "categoryId": "3",
+    "instructor": "Đỗ Hải Nam",
+    "price": 900000,
+    "duration": 22,
+    "thumbnail": "https://picsum.photos/seed/genai/600/400",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "createdAt": "2026-10-13"
+  }
+]
